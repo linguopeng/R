@@ -1,0 +1,31 @@
+"","Taxa","MeanDecreaseGini","pvalue"
+"k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Klebsiella","g__Klebsiella",1.40018631607244,2.18009093787165e-24
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcaceae UCG-013","g__Ruminococcaceae UCG-013",1.34161489312346,1.12678194443242e-27
+"k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pasteurellales|f__Pasteurellaceae|g__Haemophilus","g__Haemophilus",1.31703053103696,1.89500815546665e-19
+"k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Coriobacteriales|f__Coriobacteriaceae|g__Collinsella","g__Collinsella",1.13679859541296,3.3910494719457e-26
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Subdoligranulum","g__Subdoligranulum",1.13402247480978,3.50419753821348e-27
+"k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus","g__Lactobacillus",1.06831774784215,1.89500815546665e-19
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__[Ruminococcus] gauvreauii group","g__[Ruminococcus] gauvreauii group",1.03814840523315,1.21206917193732e-16
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Butyricicoccus","g__Butyricicoccus",0.984989544837624,3.50419753821348e-27
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__[Ruminococcus] torques group","g__[Ruminococcus] torques group",0.966708300060584,5.4729253095366e-29
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium","g__Faecalibacterium",0.94553094662496,1.20670812789947e-29
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia","g__Roseburia",0.942315243842297,2.18009093787165e-24
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Fusicatenibacter","g__Fusicatenibacter",0.909447013820661,3.75019266747429e-29
+"k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Holdemanella","g__Holdemanella",0.876240728604789,1.19000722392319e-15
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Dorea","g__Dorea",0.875541203222358,7.71983315190831e-28
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Marvinbryantia","g__Marvinbryantia",0.86768574727446,5.78488980886949e-18
+"k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides","g__Bacteroides",0.838860078249255,8.26926633266662e-30
+"k__Bacteria|p__Verrucomicrobia|c__Verrucomicrobiae|o__Verrucomicrobiales|f__Akkermansiaceae|g__Akkermansia","g__Akkermansia",0.822164340797818,3.67866195225475e-14
+"k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium","g__Bifidobacterium",0.806018117503477,3.88345892494934e-30
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcus 2","g__Ruminococcus 2",0.804738050061974,1.05520708789839e-25
+"k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus","g__Streptococcus",0.803675614681896,1.82389382608652e-30
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__[Eubacterium] hallii group","g__[Eubacterium] hallii group",0.784523690537074,1.20670812789947e-29
+"k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia-Shigella","g__Escherichia-Shigella",0.750958550048506,8.566606697241e-31
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia","g__Blautia",0.745248333871444,8.566606697241e-31
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__UBA1819","g__UBA1819",0.738379720548418,1.69404445024402e-13
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Anaerostipes","g__Anaerostipes",0.735428452153314,1.82389382608652e-30
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__[Eubacterium] ventriosum group","g__[Eubacterium] ventriosum group",0.725042239009132,1.33021611864876e-20
+"k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Erysipelotrichaceae UCG-003","g__Erysipelotrichaceae UCG-003",0.709908960866812,1.59116193626125e-26
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Agathobacter","g__Agathobacter",0.670263941376358,1.05520708789839e-25
+"k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__CAG-56","g__CAG-56",0.651150312974243,2.51176449467626e-14
+"k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Tannerellaceae|g__Parabacteroides","g__Parabacteroides",0.641353172076247,6.58999989494632e-23
